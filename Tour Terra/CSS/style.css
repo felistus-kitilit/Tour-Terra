@@ -1,0 +1,20 @@
+.menu {
+    color: #663399;
+    width: 10%;
+    text-align: left;
+    background-color: #E5E4E2;
+}
+
+    .menu a {
+        padding-right: 0px;
+        text-decoration: none;
+        color: #663399;
+        font-size: 15px;
+    }
+
+.MenuContainer {
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 0 auto;
+}

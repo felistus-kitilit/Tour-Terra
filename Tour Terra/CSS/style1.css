@@ -1,0 +1,66 @@
+.login-formmm {
+    width: 700px;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    background-color: #f2f2f2;
+    box-shadow: 0px 0px 5px #ddd;
+}
+
+    .login-formmm label {
+        font-weight: bold;
+        color:#4F7942;
+    }
+
+    .login-formmm input {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ddd;
+        border-radius: 40px;
+    }
+    .login-formmm textarea {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 10px;
+        border: 1px solid #ddd;
+        border-radius: 40px;
+    }
+.login-formmm .form-grouppp:last-of-type {
+        margin-bottom: 0;
+    }
+    .login-formmmm {
+        width: 700px;
+        margin: auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 20px;
+        background-color: #f2f2f2;
+        box-shadow: 0px 0px 5px #ddd;
+    }
+    
+        .login-formmmm label {
+            font-weight: bold;
+            color:#4F7942;
+        }
+    
+        .login-formmmm input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 40px;
+            
+        }
+        .login-formmmm textarea{
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ddd;
+            border-radius: 40px;
+            
+        }
+    .login-formmmm .form-groupppp:last-of-type {
+            margin-bottom: 0;
+        }
